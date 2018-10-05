@@ -34,7 +34,7 @@
 		<p>
 			<a href="<?php echo site_url('about'); ?>" <?php if ($isActive === 'about'): echo 'class="active"'; endif; ?>>ABOUT</a>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="https://www.dropbox.com/s/02klhtxzbhw3y9b/KellyWebber_Resume_020317.pdf?dl=0" target="_blank" <?php if ($isActive === 'resume'): echo 'class="active"'; endif; ?>>RESUME</a>
+			<a href="https://www.dropbox.com/s/7er8k54biaspiek/KellyCarter_Resume_100518.pdf?dl=0" target="_blank" <?php if ($isActive === 'resume'): echo 'class="active"'; endif; ?>>RESUME</a>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="<?php echo site_url('elsewhere'); ?>" <?php 
                 if ($isActive === 'elsewhere'): 
